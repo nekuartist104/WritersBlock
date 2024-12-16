@@ -14,3 +14,9 @@ UI - this will have buttons to navigate to different pages to create characters 
 ### Development
 
 This is in the middle of development so please expect some features will not be ready until further on when they are needed for my personal use.
+
+![](./character.png)
+
+![](./general.png)
+
+![](./edit.png)
